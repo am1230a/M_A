@@ -26,7 +26,7 @@ rm -rf M_A
 
 git clone https://github.com/am1230a/M_A
 
-cd M16
+cd M_A
 
 python YOUSIF.py
 
