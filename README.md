@@ -1,10 +1,6 @@
-# M16 / V 1.50 / PAID
+# M_A / V 1.50 / PAID
 
-PAID TOOLS M16 🇦🇱
-
-Update M16 ✅
-
-https://t.me/i6ii1 🔑
+User Telegra: @lllIIllIIIIII
 
 pkg update
 
@@ -26,9 +22,9 @@ pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urlli
 
 termux-setup-storage
 
-rm -rf  M16
+rm -rf M_A
 
-git clone https://github.com/mafiat2/M16.git
+git clone https://github.com/am1230a/M_A
 
 cd M16
 
